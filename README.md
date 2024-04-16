@@ -14,9 +14,6 @@
 <a href="https://github.com/MrDarko-X/DarkoXMusic/commits/MrDarko-X"> <img src="https://img.shields.io/github/last-commit/MrDarko-X/DarkoXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-<p align="center">
-  <img src="https://telegra.ph/file/43dc545749f29f452ba31.jpg">
-</p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
