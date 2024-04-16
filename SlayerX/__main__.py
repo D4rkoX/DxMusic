@@ -50,12 +50,12 @@ async def init():
         pass
     await Slayer.decorators()
     LOGGER("SlayerX").info(
-        "SlayerX Music Bot Started Successfully, JOIN @SUDO_APT_UPDATE"
+        "DarkoX Music Bot Started Successfully, JOIN @BotzByDarkoX"
     )
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("SlayerX").info("Stopping SlayerX Music Bot...")
+    LOGGER("SlayerX").info("Stopping DarkoX Music Bot...")
 
 
 if __name__ == "__main__":
